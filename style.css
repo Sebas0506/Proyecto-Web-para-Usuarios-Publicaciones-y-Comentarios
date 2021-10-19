@@ -1,0 +1,27 @@
+.titulos{
+    background: aqua;
+    color: blue;
+    font-weight: bold;
+    width: 30;
+}
+
+.comentarios{
+    background: yellow;
+    color: orange;
+    font-weight: bold;
+    width: 30;
+}
+
+.botones{
+    background: orange;
+    color: orangered;
+    font-size: 16;
+    text-align: center;
+}
+
+.cuerpo{
+    background: rgb(251, 243, 121);
+    color: rgb(40, 148, 45);
+    font-weight: bold;
+    width: 30;
+}
